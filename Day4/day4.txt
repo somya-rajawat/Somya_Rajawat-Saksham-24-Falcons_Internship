@@ -1,0 +1,6 @@
+Difference between sort and sorted() ?
+Sort = The sort() method is specific to lists (not available for other sequence types).
+Syntax: sorted(iterable, key, reverse=False) 
+
+Sorted = The sorted() function works with any iterable (lists, tuples, sets, etc.).
+Syntax: List_name.sort(key, reverse=False)
